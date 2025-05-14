@@ -1,3 +1,5 @@
+##**(DIMMER) o Regulador de AC con TRIAC**  
+
 Al encender el circuito, el capacitor C1 empieza a cargarse a través de R1 y el potenciómetro RV2, el potenciómetro RV2 ajusta qué tan rápido se carga el capacitor y cuando el voltaje en C1 alcanza el umbral de disparo del DIAC DB3, el DIAC conduce y libera la carga acumulada. Esta corriente de disparo pasa a través de R2 hacia la compuerta del TRIAC , activándolo y el  TRIAC permite el paso de corriente a la lámpara L1, encendiéndola parcial o totalmente según el momento del disparo. Como el AC cambia de polaridad cada medio ciclo, este proceso se repite constantemente, controlando la potencia media entregada a la carga.
 
 RV2 (500kΩ, potenciómetro): Permite ajustar la resistencia en el circuito, lo que varía el tiempo de carga del capacitor (C1). Esto controla el ángulo de disparo del TRIAC y, por lo tanto, la potencia entregada a la carga.  
