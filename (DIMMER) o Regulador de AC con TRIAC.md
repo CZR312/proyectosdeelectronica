@@ -11,5 +11,5 @@ U1 (TRIAC): Es el componente principal que controla el flujo de corriente altern
 El TRIAC es como dos SCR (Thyristors) en antiparalelo, permitiendo la conducción de corriente en ambos sentidos positivo y negativo de la onda AC.  
 
 ![Image](https://github.com/user-attachments/assets/27aaa29f-58fd-4bab-91a4-0d9d80b59f78)
-![Image](https://github.com/user-attachments/assets/8be39052-6677-457a-9c32-8b2d8f84e185)
-![Image](https://github.com/user-attachments/assets/ae4c6935-ed1a-40c0-adea-21300e39345c)
+<img src="https://github.com/user-attachments/assets/8be39052-6677-457a-9c32-8b2d8f84e185" width="400" />
+<img src="https://github.com/user-attachments/assets/ae4c6935-ed1a-40c0-adea-21300e39345c" width="400" />
