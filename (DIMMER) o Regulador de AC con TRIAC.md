@@ -10,3 +10,4 @@ D2 (DIAC, DB3): El Diac asegura que el TRIAC se dispare solo cuando el voltaje e
 U1 (TRIAC): Es el componente principal que controla el flujo de corriente alterna hacia la carga. Se dispara al recibir la señal en la compuerta mediante el diac y conduce la corriente hasta que esta cruza por cero, permitiendo el control de potencia en la carga.  
 El TRIAC es como dos SCR (Thyristors) en antiparalelo, permitiendo la conducción de corriente en ambos sentidos positivo y negativo de la onda AC.  
 
+![Image](https://github.com/user-attachments/assets/27aaa29f-58fd-4bab-91a4-0d9d80b59f78)
