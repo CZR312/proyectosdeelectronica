@@ -1,5 +1,5 @@
 # PLANO DOMICILIAR  
----
+
 ## PLANO DE ILUMINACIÓN
 ![Image](https://github.com/user-attachments/assets/2c5b4b14-6355-45e8-86e9-e16f2a345e4f)
 
